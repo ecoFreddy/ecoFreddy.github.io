@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "exploring the Earth"
   location         : "U.S."
-  employer        : "Red Brick University"
+  employer        : "UF"
   uri              : # URL
   email            : "fr.fu@ufl.edu" 
 
@@ -273,7 +273,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+ # _#talks
   - scope:
       path: ""
       type: talks
